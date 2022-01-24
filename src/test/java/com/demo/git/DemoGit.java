@@ -8,6 +8,7 @@ public class DemoGit
 	public void gitHub() {
 		System.out.println("This is first commit");
 		System.out.println("This is User2 first commit");
+		System.out.println("This is Use1 2nd commit");
 	}
 
 }
